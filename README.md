@@ -102,41 +102,41 @@
 [Documentation](https://docs.google.com/presentation/d/1j6-Tyddse53djcOhOdKlFgk3Pv8ViFA2NidCmF2yC_U/edit?usp=drivesdk)
 
 #### Clase 11
-[Workshop](https://youtu.be/_jwl1o5mgM4 )
+[Workshop](https://youtu.be/ZuDkGUn0w-Y)
 
 [Documentation](https://docs.google.com/presentation/d/1LT-V70MWavUr0sHX3Z8YAsJh9CnFShM27g2MlPRmhI4/edit?usp=drivesdk)
 
 #### After Class ponernos al dia(clase de repaso)
-[After Class ponernos al dia](https://youtu.be/WTSyVFUEgxw)
+[After Class ponernos al dia](https://youtu.be/g72_xj56MI4)
 
 #### Clase 12
-[Operadores avanzados](https://youtu.be/rWfjUDsW-9c)
+[Operadores avanzados](https://youtu.be/RQyKxkgENCw)
 
 [Documentation](https://docs.google.com/presentation/d/1MrGHYIgZTgM5GBiZKy5KR6jHNT0LB46kZDjW6Cv7gbQ/edit?usp=drivesdk)
 
 #### Clase 13
-[Librerias](https://youtu.be/Clto_uv6fCM)
+[Librerias](https://youtu.be/odRj8A3nzhc)
 
 [Documentation](https://docs.google.com/presentation/d/1pH6Pm9VAnuem58f0NcaDY1PFN_XLPm_NCjWZESYdST8/edit?usp=drivesdk)
 
 #### After Class workshop 2 (clase de repaso)
-[Class workshop 2](https://youtu.be/WTSyVFUEgxw)
+[Class workshop 2](https://youtu.be/7GTjB2YbRgc)
 
 #### Clase 14
-[Asincronica y promesas](https://youtu.be/NUO7ZIFeWdw  )
+[Asincronica y promesas](https://youtu.be/Ff2d1pSlp0w)
 
 [Documentation](https://docs.google.com/presentation/d/1bSjSFLR5QSePRR1S696wfNdGgcB6tVq_-YhffI2ncMA/edit?usp=drivesdk)
 
 #### Clase 15
-[Ajax & Fetch](https://youtu.be/lv0sTsHf5uw)
+[Ajax & Fetch](https://youtu.be/dLaYlcfF-UE)
 
 [Documentation](https://docs.google.com/presentation/d/1OmMVTUhZ-oexinX_VkC1RuWbRvyJbAZCmP9iUIG44Ho/edit?usp=drivesdk)
 
 #### After Class dudas (clase de repaso)
-[After Class dudas](https://youtu.be/WTSyVFUEgxw)
+[After Class dudas](https://youtu.be/47bxXH0Mw6E)
 
 #### Clase 16
-[Frameworks & NodeJS](https://youtu.be/L1OrcKux7bM)
+[Frameworks & NodeJS](https://youtu.be/9CMwjepumKU)
 
 [Documentation](https://docs.google.com/presentation/d/1cHF_o1H_FF16edjqefoMa52J5a8xtkL4oWAdCa3IOpE/edit?usp=drivesdk)
 
